@@ -1,0 +1,36 @@
+yeni yemek 1 2 3 
+kotlet etli yemek 3 10 5 
+borsh rus shorbasi 2.5 10 5 
+paytaxt salati soyuq salat 6 0 5 
+qovurma etli ve kartoflu yemek 7 0 5 
+xengel xemir yemeyi 4 0 5 
+kotlet etli yemek 3 10 5 
+borsh rus shorbasi 2.5 10 5 
+paytaxt salati soyuq salat 6 0 5 
+qovurma etli ve kartoflu yemek 7 0 5 
+xengel xemir yemeyi 4 0 5 
+kotlet etli yemek 3 10 5 
+borsh rus shorbasi 2.5 10 5 
+paytaxt salati soyuq salat 6 0 5 
+qovurma etli ve kartoflu yemek 7 0 5 
+xengel xemir yemeyi 4 0 5 
+kotlet etli yemek 3 10 5 
+borsh rus shorbasi 2.5 10 5 
+paytaxt salati soyuq salat 6 0 5 
+qovurma etli ve kartoflu yemek 7 0 5 
+xengel xemir yemeyi 4 0 5 
+kotlet etli yemek 3 10 5 
+borsh rus shorbasi 2.5 10 5 
+paytaxt salati soyuq salat 6 0 5 
+qovurma etli ve kartoflu yemek 7 0 5 
+xengel xemir yemeyi 4 0 5 
+kotlet etli yemek 3 10 5 
+borsh rus shorbasi 2.5 10 5 
+paytaxt salati soyuq salat 6 0 5 
+qovurma etli ve kartoflu yemek 7 0 5 
+xengel xemir yemeyi 4 0 5 
+kotlet etli yemek 3 10 5 
+borsh rus shorbasi 2.5 10 5 
+paytaxt salati soyuq salat 6 0 5 
+qovurma etli ve kartoflu yemek 7 0 5 
+xengel xemir yemeyi 4 0 5 
